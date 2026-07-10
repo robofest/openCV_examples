@@ -1,0 +1,1 @@
+# Open CV examples in Python
